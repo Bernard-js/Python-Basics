@@ -1,2 +1,4 @@
 ../venv
 .idea
+**/Classes/__pycache__
+**/ImportingFiles/__pycache__
